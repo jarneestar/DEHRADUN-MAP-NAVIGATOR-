@@ -13,7 +13,7 @@ This project combines:
 
 ---
 ## 📥 DOWNLOAD
-To download the working project, scroll to the **3rd file named:**
+To download (pc/laptop) the working project, scroll to the **3rd file named:**
 ### `mapster_fixed_user_fixed_.zip`
 
 Click on **"View Raw"** → it will automatically download the ZIP.
@@ -35,7 +35,7 @@ Running on http://127.0.0.1:5000/
 
 4.open this in your browser
 and HURRAH! WELCOME TO MAPSTER 🎉
-he app will load the Dehradun map and you can:
+ server.app will load the Dehradun map and you can:
 
 Click on any two points
 Get straight distance
